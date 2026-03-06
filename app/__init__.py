@@ -1,0 +1,1 @@
+"""JobGraph Streamlit application package."""

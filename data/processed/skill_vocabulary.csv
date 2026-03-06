@@ -1,0 +1,142 @@
+skill_id,name,category,frequency
+0,Python,other,293
+1,PostgreSQL,other,271
+2,Kubernetes,other,253
+3,PyTorch,other,165
+4,AWS,other,88
+5,SQL,other,54
+6,MySQL,other,53
+7,Kotlin,other,46
+8,Salesforce,other,40
+9,Go,other,32
+10,Spark,other,29
+11,JavaScript,other,27
+12,AI,other,24
+13,Java,other,20
+14,React,other,20
+15,Machine Learning,other,18
+16,Airflow,other,17
+17,email,other,17
+18,TypeScript,other,17
+19,security,other,16
+20,cloud,other,16
+21,Snowflake,other,14
+22,APIs,other,13
+23,MEDDIC,other,11
+24,Rust,other,11
+25,Cybersecurity,other,10
+26,cybersecurity,other,10
+27,GCP,other,10
+28,Data Science,other,10
+29,Redis,other,9
+30,Force Management,other,9
+31,Jira,other,9
+32,Tableau,other,9
+33,MEDDPICC,other,8
+34,Terraform,other,8
+35,dbt,other,8
+36,LLMs,other,8
+37,Excel,other,8
+38,Kafka,other,7
+39,Prometheus,other,7
+40,Docker,other,7
+41,Flink,other,7
+42,Git,other,7
+43,Vue,other,7
+44,Node.js,other,7
+45,Analytics,other,7
+46,Marketo,other,6
+47,DynamoDB,other,6
+48,Claude,other,6
+49,Challenger Sale,other,6
+50,Google Workspace,other,6
+51,English,other,6
+52,Bash,other,6
+53,Looker,other,6
+54,Data Analysis,other,6
+55,DNS,other,5
+56,TCP/IP,other,5
+57,scikit-learn,other,5
+58,Command of the Sale sales methodology training,other,5
+59,TensorFlow,other,5
+60,Databricks,other,5
+61,Marketing,other,5
+62,AI/ML,other,5
+63,Figma,other,5
+64,R,other,5
+65,E-commerce,other,5
+66,C++,other,5
+67,Airtable,other,5
+68,Mobile,other,5
+69,Grafana,other,4
+70,Cursor,other,4
+71,big data,other,4
+72,statistics,other,4
+73,Splunk,other,4
+74,Security,other,4
+75,PowerPoint,other,4
+76,Google Slides,other,4
+77,Proofpoint,other,4
+78,Mimecast,other,4
+79,Cisco,other,4
+80,Barracuda,other,4
+81,SMTP,other,4
+82,structured channel methodology,other,4
+83,partner dynamics,other,4
+84,German,other,4
+85,Sales Engineering,other,4
+86,Buildkite,other,4
+87,Distributed Systems,other,4
+88,CSS,other,4
+89,Temporal,other,4
+90,Confluent Platform,other,4
+91,Business Applications,other,4
+92,Japanese,other,4
+93,Solid technical understanding of SaaS security models including multi-tenant cloud environments,other,3
+94,"Experience with enterprise email security platforms (Proofpoint, Mimecast, Cisco, Barracuda, etc.)",other,3
+95,Technical background in messaging and internet security principles,other,3
+96,Hands-on experience with Microsoft Exchange Online / Microsoft 365 or Google Workspace,other,3
+97,Pandas,other,3
+98,OAuth/OIDC,other,3
+99,TLS,other,3
+100,Django,other,3
+101,Bazel,other,3
+102,Cyber-security Software sales,other,3
+103,Command of the Sale,other,3
+104,Angular,other,3
+105,REST,other,3
+106,Crowdstrike,other,3
+107,AI tools,other,3
+108,Email,other,3
+109,Cloud,other,3
+110,GDPR,other,3
+111,Internet and networking technologies,other,3
+112,Linux,other,3
+113,Cyber-security Software sales: Experience selling subscription software/SaaS to CISOs and security personnel,other,3
+114,SaaS,other,3
+115,Big Data,other,3
+116,Outreach,other,3
+117,Data analysis,other,3
+118,Claude Code,other,3
+119,Ansible,other,3
+120,Jenkins,other,3
+121,Workday,other,3
+122,data analysis,other,3
+123,Fintech,other,3
+124,Storytelling,other,3
+125,HTML,other,3
+126,GitHub,other,3
+127,CI/CD,other,3
+128,Ray,other,3
+129,BigQuery,other,3
+130,Chronosphere,other,3
+131,software engineering,other,3
+132,HTML/CSS,other,3
+133,OpenTelemetry,other,3
+134,ClickHouse,other,3
+135,GraphQL,other,3
+136,Zendesk,other,3
+137,RESTful APIs,other,3
+138,SDKs,other,3
+139,Oracle,other,3
+140,LLM inference optimization,other,3

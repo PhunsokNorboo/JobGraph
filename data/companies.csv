@@ -1,0 +1,152 @@
+name,domain,careers_url,industry,stage,size
+Google,google.com,https://careers.google.com,big_tech,public,1000+
+Meta,meta.com,https://www.metacareers.com,big_tech,public,1000+
+Apple,apple.com,https://jobs.apple.com,big_tech,public,1000+
+Amazon,amazon.com,https://www.amazon.jobs,big_tech,public,1000+
+Microsoft,microsoft.com,https://careers.microsoft.com,big_tech,public,1000+
+Netflix,netflix.com,https://jobs.netflix.com,big_tech,public,1000+
+Nvidia,nvidia.com,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite,big_tech,public,1000+
+Salesforce,salesforce.com,https://careers.salesforce.com,big_tech,public,1000+
+Adobe,adobe.com,https://careers.adobe.com,big_tech,public,1000+
+Oracle,oracle.com,https://careers.oracle.com,big_tech,public,1000+
+IBM,ibm.com,https://www.ibm.com/careers,big_tech,public,1000+
+Uber,uber.com,https://www.uber.com/us/en/careers,big_tech,public,1000+
+Lyft,lyft.com,https://www.lyft.com/careers,big_tech,public,1000+
+Snap,snap.com,https://careers.snap.com,big_tech,public,1000+
+Pinterest,pinterest.com,https://www.pinterestcareers.com,big_tech,public,1000+
+X,x.com,https://careers.x.com,big_tech,public,1000+
+Spotify,spotify.com,https://www.lifeatspotify.com/jobs,big_tech,public,1000+
+LinkedIn,linkedin.com,https://careers.linkedin.com,big_tech,public,1000+
+Palantir,palantir.com,https://www.palantir.com/careers,big_tech,public,1000+
+Block,block.xyz,https://block.xyz/careers,big_tech,public,1000+
+OpenAI,openai.com,https://boards.greenhouse.io/openai,ai,series_c,1000+
+Anthropic,anthropic.com,https://boards.greenhouse.io/anthropic,ai,series_c,201-1000
+Cohere,cohere.com,https://boards.greenhouse.io/cohere,ai,series_c,201-1000
+Mistral AI,mistral.ai,https://jobs.lever.co/mistral,ai,series_b,51-200
+Hugging Face,huggingface.co,https://apply.workable.com/huggingface,ai,series_d,201-1000
+Scale AI,scale.com,https://boards.greenhouse.io/scaleai,ai,series_e,201-1000
+Weights & Biases,wandb.ai,https://boards.greenhouse.io/wandb,ai,series_c,201-1000
+Stability AI,stability.ai,https://stability.ai/careers,ai,series_b,201-1000
+Perplexity,perplexity.ai,https://boards.greenhouse.io/perplexityai,ai,series_b,51-200
+Inflection AI,inflection.ai,https://inflection.ai/careers,ai,series_b,51-200
+Adept AI,adept.ai,https://boards.greenhouse.io/adeptailabs,ai,series_b,51-200
+Runway,runwayml.com,https://boards.greenhouse.io/runwayml,ai,series_c,201-1000
+Character.AI,character.ai,https://boards.greenhouse.io/character,ai,series_a,51-200
+Deepmind,deepmind.google,https://deepmind.google/about/careers,ai,public,1000+
+Replit,replit.com,https://jobs.ashbyhq.com/replit,ai,series_b,201-1000
+Midjourney,midjourney.com,https://midjourney.com/careers,ai,unknown,51-200
+Together AI,together.ai,https://boards.greenhouse.io/togetherai,ai,series_a,51-200
+Cerebras,cerebras.net,https://cerebras.net/careers,ai,series_c,201-1000
+xAI,x.ai,https://boards.greenhouse.io/xai,ai,series_b,201-1000
+Stripe,stripe.com,https://stripe.com/jobs,fintech,public,1000+
+Plaid,plaid.com,https://plaid.com/careers,fintech,series_d,201-1000
+Ramp,ramp.com,https://boards.greenhouse.io/ramp,fintech,series_c,201-1000
+Brex,brex.com,https://www.brex.com/careers,fintech,series_d,201-1000
+Affirm,affirm.com,https://boards.greenhouse.io/affirm,fintech,public,1000+
+Robinhood,robinhood.com,https://careers.robinhood.com,fintech,public,1000+
+Coinbase,coinbase.com,https://www.coinbase.com/careers,fintech,public,1000+
+Rippling,rippling.com,https://www.rippling.com/careers,fintech,series_e,1000+
+Mercury,mercury.com,https://boards.greenhouse.io/mercury,fintech,series_c,201-1000
+Marqeta,marqeta.com,https://www.marqeta.com/company/careers,fintech,public,201-1000
+Chime,chime.com,https://www.chime.com/careers,fintech,series_g,1000+
+Checkout.com,checkout.com,https://www.checkout.com/careers,fintech,series_d,1000+
+Navan,navan.com,https://navan.com/careers,fintech,series_g,1000+
+Column,column.com,https://boards.greenhouse.io/column,fintech,series_b,51-200
+Modernfi,modernfi.com,https://boards.greenhouse.io/modernfi,fintech,series_a,1-50
+Carta,carta.com,https://boards.greenhouse.io/carta,fintech,series_g,1000+
+Gusto,gusto.com,https://boards.greenhouse.io/gusto,fintech,series_e,1000+
+Meow,meow.com,https://boards.greenhouse.io/meow,fintech,series_a,1-50
+Datadog,datadoghq.com,https://careers.datadoghq.com,saas,public,1000+
+Snowflake,snowflake.com,https://careers.snowflake.com,saas,public,1000+
+Cloudflare,cloudflare.com,https://www.cloudflare.com/careers,saas,public,1000+
+HashiCorp,hashicorp.com,https://www.hashicorp.com/careers,saas,public,1000+
+Databricks,databricks.com,https://boards.greenhouse.io/databricks,saas,public,1000+
+Confluent,confluent.io,https://careers.confluent.io,saas,public,1000+
+MongoDB,mongodb.com,https://www.mongodb.com/careers,saas,public,1000+
+Elastic,elastic.co,https://www.elastic.co/careers,saas,public,1000+
+Twilio,twilio.com,https://www.twilio.com/company/jobs,saas,public,1000+
+Airtable,airtable.com,https://boards.greenhouse.io/airtable,saas,series_f,201-1000
+Notion,notion.so,https://boards.greenhouse.io/notion,saas,series_c,201-1000
+Figma,figma.com,https://boards.greenhouse.io/figma,saas,public,1000+
+Canva,canva.com,https://www.canva.com/careers,saas,public,1000+
+Atlassian,atlassian.com,https://www.atlassian.com/company/careers,saas,public,1000+
+ServiceNow,servicenow.com,https://careers.servicenow.com,saas,public,1000+
+Palo Alto Networks,paloaltonetworks.com,https://jobs.paloaltonetworks.com,saas,public,1000+
+Okta,okta.com,https://www.okta.com/company/careers,saas,public,1000+
+HubSpot,hubspot.com,https://www.hubspot.com/careers,saas,public,1000+
+Splunk,splunk.com,https://www.splunk.com/en_us/careers.html,saas,public,1000+
+Amplitude,amplitude.com,https://boards.greenhouse.io/amplitude,saas,public,201-1000
+Vercel,vercel.com,https://vercel.com/careers,developer_tools,series_c,201-1000
+Linear,linear.app,https://linear.app/careers,developer_tools,series_b,51-200
+Retool,retool.com,https://boards.greenhouse.io/retool,developer_tools,series_c,201-1000
+PostHog,posthog.com,https://boards.greenhouse.io/posthog,developer_tools,series_b,51-200
+Supabase,supabase.com,https://boards.greenhouse.io/supabase,developer_tools,series_c,51-200
+GitLab,gitlab.com,https://about.gitlab.com/jobs,developer_tools,public,1000+
+GitHub,github.com,https://github.com/about/careers,developer_tools,public,1000+
+Docker,docker.com,https://www.docker.com/careers,developer_tools,series_c,201-1000
+Grafana Labs,grafana.com,https://grafana.com/about/careers,developer_tools,series_d,201-1000
+Sentry,sentry.io,https://boards.greenhouse.io/sentry,developer_tools,series_e,201-1000
+Fly.io,fly.io,https://fly.io/jobs,developer_tools,series_c,51-200
+Railway,railway.app,https://railway.app/careers,developer_tools,series_a,1-50
+Render,render.com,https://boards.greenhouse.io/render,developer_tools,series_c,51-200
+Planetscale,planetscale.com,https://planetscale.com/careers,developer_tools,series_c,51-200
+Neon,neon.tech,https://boards.greenhouse.io/neondatabase,developer_tools,series_b,51-200
+Sourcegraph,sourcegraph.com,https://boards.greenhouse.io/sourcegraph91,developer_tools,series_d,201-1000
+Temporal,temporal.io,https://boards.greenhouse.io/temporal,developer_tools,series_b,201-1000
+Stytch,stytch.com,https://boards.greenhouse.io/stytch,developer_tools,series_b,51-200
+Prisma,prisma.io,https://boards.greenhouse.io/prisma,developer_tools,series_b,51-200
+Resend,resend.com,https://resend.com/careers,developer_tools,seed,1-50
+Shopify,shopify.com,https://www.shopify.com/careers,ecommerce,public,1000+
+DoorDash,doordash.com,https://careers.doordash.com,ecommerce,public,1000+
+Instacart,instacart.com,https://instacart.careers,ecommerce,public,1000+
+Airbnb,airbnb.com,https://careers.airbnb.com,ecommerce,public,1000+
+Etsy,etsy.com,https://careers.etsy.com,ecommerce,public,1000+
+Faire,faire.com,https://boards.greenhouse.io/faire,ecommerce,series_g,1000+
+Zillow,zillow.com,https://zillow.wd5.myworkdayjobs.com/Zillow_Group_Careers,ecommerce,public,1000+
+Grubhub,grubhub.com,https://careers-grubhub.icims.com,ecommerce,public,1000+
+Booking.com,booking.com,https://careers.booking.com,ecommerce,public,1000+
+Expedia,expedia.com,https://careers.expediagroup.com,ecommerce,public,1000+
+Flexport,flexport.com,https://boards.greenhouse.io/flexport,ecommerce,series_e,1000+
+Gopuff,gopuff.com,https://boards.greenhouse.io/gopuff,ecommerce,series_h,1000+
+Chewy,chewy.com,https://careers.chewy.com,ecommerce,public,1000+
+Warby Parker,warbyparker.com,https://www.warbyparker.com/jobs,ecommerce,public,1000+
+StockX,stockx.com,https://stockx.com/careers,ecommerce,series_e,1000+
+Whatnot,whatnot.com,https://boards.greenhouse.io/whatnot,ecommerce,series_d,201-1000
+Discord,discord.com,https://discord.com/careers,ecommerce,series_h,1000+
+Reddit,reddit.com,https://www.redditinc.com/careers,ecommerce,public,1000+
+Duolingo,duolingo.com,https://boards.greenhouse.io/duolingo,ecommerce,public,1000+
+Tempus,tempus.com,https://boards.greenhouse.io/tempus,healthcare,public,1000+
+Flatiron Health,flatiron.com,https://flatiron.com/careers,healthcare,unknown,201-1000
+Recursion,recursion.com,https://boards.greenhouse.io/recursionpharmaceuticals,healthcare,public,201-1000
+Veracyte,veracyte.com,https://veracyte.com/careers,healthcare,public,201-1000
+Insitro,insitro.com,https://boards.greenhouse.io/insitro,healthcare,series_c,51-200
+Viz.ai,viz.ai,https://boards.greenhouse.io/vizai,healthcare,series_d,201-1000
+Color Health,color.com,https://boards.greenhouse.io/color,healthcare,series_e,201-1000
+Ro,ro.co,https://boards.greenhouse.io/ro,healthcare,series_d,201-1000
+Hinge Health,hingehealth.com,https://boards.greenhouse.io/hingehealth,healthcare,series_e,1000+
+Oscar Health,hioscar.com,https://boards.greenhouse.io/oscar,healthcare,public,1000+
+Devoted Health,devoted.com,https://boards.greenhouse.io/devoted,healthcare,series_d,1000+
+Spring Health,springhealth.com,https://boards.greenhouse.io/springhealth,healthcare,series_c,201-1000
+Nuvance Health,nuvancehealth.org,https://nuvancehealth.org/careers,healthcare,unknown,1000+
+Sword Health,swordhealth.com,https://boards.greenhouse.io/swordhealth,healthcare,series_d,201-1000
+Olive AI,oliveai.com,https://boards.greenhouse.io/oliveai,healthcare,series_h,201-1000
+Alma,helloalma.com,https://boards.greenhouse.io/alma,healthcare,series_d,201-1000
+CrowdStrike,crowdstrike.com,https://www.crowdstrike.com/careers,cybersecurity,public,1000+
+SentinelOne,sentinelone.com,https://www.sentinelone.com/careers,cybersecurity,public,1000+
+Snyk,snyk.io,https://boards.greenhouse.io/snyk,cybersecurity,series_g,1000+
+Wiz,wiz.io,https://boards.greenhouse.io/wiz,cybersecurity,series_d,1000+
+Lacework,lacework.com,https://boards.greenhouse.io/lacework,cybersecurity,series_d,201-1000
+Chainguard,chainguard.dev,https://boards.greenhouse.io/chainguard,cybersecurity,series_c,51-200
+1Password,1password.com,https://jobs.lever.co/1password,cybersecurity,series_c,201-1000
+Abnormal Security,abnormalsecurity.com,https://boards.greenhouse.io/abnormalsecurity,cybersecurity,series_d,201-1000
+Arctic Wolf,arcticwolf.com,https://arcticwolf.com/company/careers,cybersecurity,series_f,1000+
+Cybereason,cybereason.com,https://www.cybereason.com/company/careers,cybersecurity,series_f,201-1000
+Material Security,material.security,https://boards.greenhouse.io/materialsecurity,cybersecurity,series_c,51-200
+Dragos,dragos.com,https://www.dragos.com/careers,cybersecurity,series_d,201-1000
+Island,island.io,https://boards.greenhouse.io/island,cybersecurity,series_d,201-1000
+Orca Security,orca.security,https://boards.greenhouse.io/orcasecurity,cybersecurity,series_c,201-1000
+Vanta,vanta.com,https://boards.greenhouse.io/vanta,cybersecurity,series_c,201-1000
+Drata,drata.com,https://boards.greenhouse.io/drata,cybersecurity,series_c,201-1000
+Anduril,anduril.com,https://boards.greenhouse.io/anduril,defense_tech,series_f,1000+
+Shield AI,shield.ai,https://boards.greenhouse.io/shieldai,defense_tech,series_f,201-1000
+Saronic,saronic.com,https://boards.greenhouse.io/saronic,defense_tech,series_b,51-200
