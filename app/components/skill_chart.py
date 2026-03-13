@@ -31,21 +31,30 @@ def render_skill_chart(results: list[SearchResult]):
     if not top_skills:
         return
 
+    # Truncate long skill names for readability
+    def _truncate(name: str, max_len: int = 25) -> str:
+        return name if len(name) <= max_len else name[:max_len - 1] + "..."
+
+    labels = [_truncate(s) for s in top_skills]
     matched = [match_counts.get(s, 0) for s in top_skills]
     gaps = [gap_counts.get(s, 0) for s in top_skills]
 
     fig = go.Figure()
     fig.add_trace(go.Bar(
         name="Skills You Have",
-        x=top_skills,
+        x=labels,
         y=matched,
         marker_color="#4CAF50",
+        hovertext=top_skills,
+        hoverinfo="text+y",
     ))
     fig.add_trace(go.Bar(
         name="Skills to Learn",
-        x=top_skills,
+        x=labels,
         y=gaps,
         marker_color="#FF9800",
+        hovertext=top_skills,
+        hoverinfo="text+y",
     ))
 
     fig.update_layout(
@@ -53,9 +62,10 @@ def render_skill_chart(results: list[SearchResult]):
         title="Skill Overlap Across Matched Jobs",
         xaxis_title="Skill",
         yaxis_title="# of Jobs",
-        height=400,
-        margin=dict(t=40, b=80),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02),
+        xaxis=dict(tickangle=-45),
+        height=450,
+        margin=dict(t=60, b=140),
+        legend=dict(orientation="h", yanchor="bottom", y=1.08, xanchor="center", x=0.5),
     )
 
     st.plotly_chart(fig, use_container_width=True)
